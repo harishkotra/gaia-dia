@@ -4,6 +4,12 @@ This project is an exciting demonstration of how Artificial Intelligence can ans
 
 Specifically, this application showcases the integration of **Gaia Nodes** (your own local Large Language Models) with **DIA Data APIs** for comprehensive cross-asset financial analysis, leveraging the power of **AI Tool Calling**.
 
+<img width="733" height="297" alt="image" src="https://github.com/user-attachments/assets/60ad2d3f-01e6-4c65-852f-0e2fd7231d50" />
+<img width="1744" height="1209" alt="image" src="https://github.com/user-attachments/assets/a0effa07-c323-4595-b240-d0a6efb8a43c" />
+<img width="1647" height="1198" alt="image" src="https://github.com/user-attachments/assets/60f35fab-7c8e-4821-992a-b1028d6864d7" />
+![gaia-dia](https://github.com/user-attachments/assets/5d03b2b2-3368-4b03-8d37-5bdb3d08463f)
+
+
 ## ✨ What Does This Project Do?
 
 This web application empowers you to:
